@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900,100&display=swap');
+$font-body: 'Roboto';
+
+/* Color shade */
+$background: #ffffff;
+$red: #FF0000;
+$light-red: #f25c43;
+$grey: #666;
+$light-grey: #f5f6f6;
+$footer: #30353d;
+
+/* Images */
+$base_image_url: '../images';
+$bg-image: "#{$base-image-url}/bg.gif";
+$logo-image: "#{$base-image-url}/logo.png";
+$social-image: "#{$base-image-url}/social-media.png";
